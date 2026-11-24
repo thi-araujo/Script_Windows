@@ -1,0 +1,15 @@
+{
+  "area_de_trabalho": "usuario",
+  "unidades": [
+    {"letra": "F:", "caminho": "\\\\servidor-arquivos\\dados", "descricao": "Arquivos do departamento"},
+    {"letra": "M:", "caminho": "\\\\servidor-arquivos\\publico", "descricao": "Pasta pública"}
+  ],
+  "atalhos": [
+    {"nome": "Portal de Suporte", "url": "https://suporte.exemplo.com.br"},
+    {"nome": "Intranet", "url": "https://intranet.exemplo.com.br"},
+    {"nome": "Word", "menu_iniciar": "Word"},
+    {"nome": "Excel", "menu_iniciar": "Excel"},
+    {"nome": "Assistência Rápida", "menu_iniciar": "Quick Assist"}
+  ],
+  "remover": ["Internet Explorer", "Word 2016", "Excel 2016", "Skype for Business 2016"]
+}
